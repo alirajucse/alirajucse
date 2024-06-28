@@ -22,5 +22,5 @@
 
 ## 💻 My Tech Stack:
 
-[![cypress,postman,JavaScript,TypeScript](https://skillicons.dev/icons?i=cypress,postman,js,ts)](https://skillicons.dev)
+[![cypress,postman,JavaScript,TypeScript](https://skillicons.dev/icons?i=cypress,postman,js,ts)](https://skillicons.dev) <img src="https://github.com/alirajucse/alirajucse/blob/master/playwright.svg" alt="playwright">
 
