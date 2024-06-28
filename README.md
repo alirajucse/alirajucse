@@ -24,3 +24,10 @@
 
 <img  src="https://github.com/alirajucse/alirajucse/blob/master/cypress-color.svg" alt="Cypress" width="50" height="50"/> &nbsp;<img  src="https://github.com/alirajucse/alirajucse/blob/master/playwright-color.svg" alt="Playwright" width="50" height="50"/> &nbsp;<img  src="https://github.com/alirajucse/alirajucse/blob/master/selenium-color.svg" alt="Selenium" width="50" height="50" /> &nbsp; <img  src="https://github.com/alirajucse/alirajucse/blob/master/javascript-color.svg" alt="Javascript" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;<img  src="https://github.com/alirajucse/alirajucse/blob/master/typescript-color.svg" alt="Typescript" width="50" height="50" /> &nbsp; <img  src="https://github.com/alirajucse/alirajucse/blob/master/postman-color.svg" alt="Postman" width="50" height="50" /> &nbsp;<img src="https://github.com/alirajucse/alirajucse/blob/master/jest-color.svg" alt="Jest" width="50" height="50"/> &nbsp;
 
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alirajucse&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirajucse&layout=compact&theme=dark" />&nbsp;&nbsp;
+</p>
+
