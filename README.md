@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/alirajucse/alirajucse/blob/master/ali.gif" alt="Hi, I'm Ali Raju 👋 I'm a 🚀 Full Stack Software Automation Engineer 🚀 I ❤️ Test Automation ❤️">
+  <img src="https://github.com/alirajucse/alirajucse/blob/master/ali.gif" alt="Hi, I'm Md. Ali Raju 👋 I'm a 🚀 Full Stack Software Automation Engineer 🚀 I ❤️ Test Automation ❤️">
 </p>
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaspergabriel/) &nbsp;
